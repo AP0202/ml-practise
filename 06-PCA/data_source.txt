@@ -1,0 +1,3 @@
+
+For 06-PCA
+Download data from - https://www.kaggle.com/competitions/digit-recognizer/data?select=train.csv
